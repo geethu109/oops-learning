@@ -44,7 +44,7 @@ except:
 
 `super()` is like saying "do what my parent does first, then I'll add my own stuff." We'll see this later when we learn inheritance.
 
-## Project Structure (Simple Version)
+## Project Structure (Simple Version) (Dee MSG : kinda file structure choodu aa files create cheyu except .txt first directory create cheyu book_tracker then three .py files kinda tasks unnay)
 
 ```
 book_tracker/
